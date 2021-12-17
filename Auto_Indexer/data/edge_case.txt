@@ -1,0 +1,89 @@
+<1>
+
+// This is a [comment]. Just kidding! Your silly old program will read this in anyways [:)]
+
+<-1924812112>
+
+// Woah! -1924812112 doesn't come after 1!!! This line isn't a [comment] either by the way
+Well whatever, it doesn't matter [ig]...
+
+Wait... what if I did something like [[this]]? I feel like this is kinda illegal...
+By the way this *should* read in "this" twice, but only have one page number for both!
+Hopefully your program did that [:)]
+
+[What [are you] doing [to] my [program right now]]? Haha oops sowwy ._.
+
+<2>
+
+Whew, back to page 2! I thought this would never happen!!! [:)]
+
+[comment] [comment] [comment] [comment] [comment] [comment] [comment]
+If your output file says 1, -1924812112, 2, 2, 2, 2, 2, 2, 2...
+Honestly [] I'm gonna [ ] be kinda sad [:(]
+Btw, [] shouldn't actually index anything (except : page numbers)
+
+<12130231283>
+
+SERIOUSLY?!? [WE HAVE ALREADY BEEN THROUGH THIS!] The person writing this file isn't very smart...
+Also, that last thing should've been converted to lowercase... [:)]
+
+<3>
+
+Ok so I can't really think of any more edge cases, so I mean [                                     ]
+Actually I just came up with some more edge cases lmao
+
+<4>
+
+[What
+If
+I
+Did
+This]
+
+[[What
+About]
+This]
+
+[[This
+Is What]
+Broke
+My
+Program]
+
+[Seriously,
+It took
+me like
+three [hours
+to fix]
+these problems]
+
+I *would* make you do this over the page number, but your program doesn't actually need
+to be able to do that, so [ig] that's kind of nice for you [:)]
+
+<69>
+
+Ok I'm kinda lazy now... read this[:]
+[.][!][@][#][[$]Q#@$#Q%#[@%@]#%%^#(!@(#*$(@&*$]
+
+<420>
+
+[] 69 wouldn't be complete without 420 amirite?
+[\n][\0] I wrote this at 12:24PM and I have class at 8:00AM [:(]
+
+[I finished this file last night and was planning to send it to the slack today, but
+I actually had a lot more work that I expected, so I am sending this file to the slack
+pretty late. By the way the reason for this extremely long index is to check if your
+program can spill it over onto the next line or not in the output file. I actually
+completely forgot about this requirement and I have a feeling some of you guys did too
+so here is a bit of a reminder [ig]... Maybe I should stop typing in here lmao]
+
+<1>
+
+Aaaaaaaaaaand we're back at page 1.
+Well, if you made it this far, congratulations! You created a really nice and sturdy program.
+You know, I am really quite proud of you for coming all this way! ( ← That would be positive [sentiment]!)
+
+<-1>
+
+Your program shouldn't be reading this lmao - [[[[[[[[[[What are you]]]]] doing]]]]]
+Because I sure don't know... NOW FIX YOUR PROGRAM! THIS IS DUE SOON YOU KNOW!!! WTF
