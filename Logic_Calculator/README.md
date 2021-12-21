@@ -54,6 +54,4 @@ Enter 'quit' to quit
 Enter Expression: 
 ```
 ## Lisence
-By Daniel Ryan and Andrew Yu
-
-kachow, pls give us a 100
+Created entrely by me, Daniel Ryan, as a coding assignment for CS2353 at SMU 
