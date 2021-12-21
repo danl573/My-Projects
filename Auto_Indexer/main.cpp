@@ -15,18 +15,15 @@
  */
 #include "catch_setup.h"
 #include "Processor.h"
-#include "DSString.h"
 
 int main(int argc, char** argv) {
     if(argc == 1) {
         runCatchTests();
     }
     else {
-        DSString h = "HDSKL";
-        std::cout << h.getFirstChar() << std::endl;
-//        Processor p;
-//        p.ReadBook(argv[1]);
-//        p.PrintIndex(argv[2]);
+        Processor p;
+        p.ReadBook(argv[1]);
+        p.PrintIndex(argv[2]);
     }
     return 0;
 }
