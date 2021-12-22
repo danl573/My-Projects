@@ -7,7 +7,7 @@
 void Query::SearchWord(const DSString& file) {
 
     std::cout << "\n-_-_-_-_-_-Welcome to the Finance Search Engine!!-_-_-_-_-_-" << std::endl;
-    std::cout << "-_-Brought to you by one sad and lonely Momo Hirai Fanboy-_-" << std::endl;
+    std::cout << "-_-_-_-_-_-_-_-Brought to you by: Daniel Ryan-_-_-_-_-_-_-_-" << std::endl;
     IndexingOptions(file);
 
     std::string num = "1";
