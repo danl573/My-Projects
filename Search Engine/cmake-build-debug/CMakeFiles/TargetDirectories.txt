@@ -1,3 +1,0 @@
-/Users/danielryan/Development/untitled folder/My-Projects/Search Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/danielryan/Development/untitled folder/My-Projects/Search Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/danielryan/Development/untitled folder/My-Projects/Search Engine/cmake-build-debug/CMakeFiles/21f_final_proj_template.dir
